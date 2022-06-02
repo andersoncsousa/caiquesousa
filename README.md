@@ -1,4 +1,6 @@
-# Heey Sou Caique Sousa trabalho como Desenvolvedor Front-End
+# Heey Sou Caique Sousa 
+Moro Em São Paulo/Brasil
+Atualmente trabalho como Desenvolvedor Front-End e com Moda.
 <div align="center">
   <a href="https://github.com/andersoncsousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersoncsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
