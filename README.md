@@ -1,5 +1,4 @@
-# Heey Sou Caique Sousa 
-Atualmento estou trabalho como Desenvolvedor Front-End e com moda.
+# Heey Sou Caique Sousa trabalho como Desenvolvedor Front-End
 <div align="center">
   <a href="https://github.com/andersoncsousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersoncsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,10 +15,7 @@ Atualmento estou trabalho como Desenvolvedor Front-End e com moda.
   ##
  
 <div> 
-  <a href="https://cs-tech-portifolio.netlify.app/" target="_blank"><img src="https://www.flaticon.com/br/icone-gratis/local-na-rede-internet_5988512?term=site&page=1&position=1&page=1&position=1&related_id=5988512&origin=search" target="_blank"></a>
-  <a href="https://instagram.com/caiqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caique_sousa@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caique-sousa-444776148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
+  <a href="https://cs-tech-portifolio.netlify.app/" target="_blank">Portifólio</a>
+  <a href = "mailto:caique_sousa@outlook.com.br">Email</a>
+  <a href="https://www.linkedin.com/in/caique-sousa-444776148/" target="_blank">LinkedIn</a> 
 </div>
